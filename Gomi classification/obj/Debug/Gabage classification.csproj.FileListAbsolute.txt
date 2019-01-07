@@ -1,0 +1,38 @@
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\bin\Debug\concrt140.dll
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\bin\Debug\cvextern.dll
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\bin\Debug\msvcp140.dll
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\bin\Debug\opencv_ffmpeg320.dll
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\bin\Debug\vcruntime140.dll
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\bin\Debug\Gomi classification.exe.config
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\bin\Debug\Gomi classification.exe
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\bin\Debug\Gomi classification.pdb
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\bin\Debug\Emgu.CV.World.dll
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\bin\Debug\Microsoft.Cognitive.CustomVision.Prediction.dll
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\bin\Debug\Microsoft.Cognitive.CustomVision.Training.dll
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\bin\Debug\ZedGraph.dll
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\bin\Debug\Emgu.CV.World.xml
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\bin\Debug\Microsoft.Cognitive.CustomVision.Prediction.pdb
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\bin\Debug\Microsoft.Cognitive.CustomVision.Training.pdb
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\obj\Debug\Gabage classification.csprojAssemblyReference.cache
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\obj\Debug\Interop.WMPLib.dll
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\obj\Debug\Gabage classification.csproj.ResolveComReference.cache
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\obj\Debug\Gomi_classification.bottle.resources
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\obj\Debug\Gomi_classification.BottleForm.resources
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\obj\Debug\Gomi_classification.Box.resources
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\obj\Debug\Gomi_classification.Can.resources
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\obj\Debug\Gomi_classification.Form1.resources
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\obj\Debug\Gomi_classification.burnable.resources
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\obj\Debug\Gomi_classification.Glass.resources
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\obj\Debug\Gomi_classification.Properties.Resources.resources
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\obj\Debug\Gabage classification.csproj.GenerateResource.cache
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\obj\Debug\Gabage classification.csproj.CoreCompileInputs.cache
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\obj\Debug\Gabage classification.csproj.CopyComplete
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\obj\Debug\Gomi classification.exe
+C:\Users\Plengjula\source\repos\Gomi classification\Gomi classification\obj\Debug\Gomi classification.pdb
